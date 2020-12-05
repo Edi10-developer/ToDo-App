@@ -10,3 +10,6 @@ Este proyecto es la programación de una aplicación para escribir tareas.
 Es posible escribir, cortar las tareas realizadas y cancelarlas.
 Tecnologías utilizadas: HTML5, CSS3, REACT.
 Es simple y funcional.
+
+
+![alt text](https://github.com/Edi10-developer/ToDo-App/blob/master/todo.png)
